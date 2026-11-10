@@ -3,6 +3,14 @@
 Aplicação de portfólio para cadastrar anúncios de veículos e consultar os
 anúncios salvos no próprio navegador.
 
+## Demonstração
+
+[Acesse a versão publicada no GitHub Pages](https://joycesantosp03-jpg.github.io/venda-seu-carro-react/).
+
+## Captura de tela
+
+![Tela inicial do Venda seu carro](docs/screenshot.png)
+
 ## Funcionalidades
 
 - Formulário com validação de dados, opcionais e câmbio.
