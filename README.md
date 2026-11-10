@@ -1,5 +1,7 @@
 # Venda seu carro
 
+[![Deploy to GitHub Pages](https://github.com/joycesantosp03-jpg/venda-seu-carro-react/actions/workflows/deploy.yml/badge.svg)](https://github.com/joycesantosp03-jpg/venda-seu-carro-react/actions/workflows/deploy.yml)
+
 Aplicação de portfólio para cadastrar anúncios de veículos e consultar os
 anúncios salvos no próprio navegador.
 
