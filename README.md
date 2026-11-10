@@ -7,6 +7,9 @@ anúncios salvos no próprio navegador.
 
 [Acesse a versão publicada no GitHub Pages](https://joycesantosp03-jpg.github.io/venda-seu-carro-react/).
 
+O site é atualizado automaticamente quando novas alterações são enviadas para
+a branch `main`.
+
 ## Captura de tela
 
 ![Tela inicial do Venda seu carro](docs/screenshot.png)
